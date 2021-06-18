@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alquds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_text">هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص</string>
+    <string name="test_text1">الصفحة الرئيسية</string>
+    <string name="tv_Alert_loading">جاري التحميل</string>
+    <string name="tv_details">التفاصيل</string>
+    <string name="tv_home">الرئيسية</string>
+    <string name="tv_landmarks">المعالم</string>
+    <string name="tv_informations">المعلومات</string>
+    <string name="title_details">تفاصيل الفيديو</string>
+    <string name="add_to_favorite">تم الإضافة الى المفضلة</string>
+    <string name="failed_add_to_favorite">فشلت الإضافة الى المفضلة</string>
+    <string name="s_loading">تم التحميل</string>
+    <string name="c_noInternet">تصفح من دون إتصال بالإنترنت</string>
+</resources>

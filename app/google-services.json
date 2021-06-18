@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279348066540",
+    "project_id": "alquds-19c73",
+    "storage_bucket": "alquds-19c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279348066540:android:93f8e720fd0eef5e864dc9",
+        "android_client_info": {
+          "package_name": "com.osamaaltawil.alquds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279348066540-qgori3len112kuc0e06v7jdmpiluti4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-uvmy7o2uMJRtNWiqnJP5vfhhHnJaQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279348066540-qgori3len112kuc0e06v7jdmpiluti4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
